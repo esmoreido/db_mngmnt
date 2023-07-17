@@ -1,0 +1,26 @@
+{
+    "id": "4FFBCDA3",
+    "path": "~/R/db_management/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1689522394596.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "120,24",
+        "scrollLine": "104"
+    },
+    "folds": "182|27|195|2|\n",
+    "lastKnownWriteTime": 1689626458,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689626458628,
+    "read_only": false,
+    "read_only_alternatives": []
+}
